@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Punto3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a586e59b0c3edfa183fe368df48720a8998e15f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33fca81a13e804b0c95cf9bfc2366af3b18bb2ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("Punto3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Punto3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
