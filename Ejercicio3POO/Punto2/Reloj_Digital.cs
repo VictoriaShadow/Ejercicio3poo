@@ -70,9 +70,9 @@ namespace Punto2
             }
         }
 
-        public string MostrarHora()
+        public void MostrarHora()
         {
-            return $"{Hora:D2}:{Minutos:D2}:{Segundos:D2}";
+            Console.WriteLine($"{Hora:D2}:{Minutos:D2}:{Segundos:D2}");
         }
     }
 }

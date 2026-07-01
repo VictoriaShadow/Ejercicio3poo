@@ -1,0 +1,15 @@
+C:\Users\valen\Ejercicio3POO\Ejercicio3POO\Punto7\bin\Debug\net10.0\Punto7.exe
+C:\Users\valen\Ejercicio3POO\Ejercicio3POO\Punto7\bin\Debug\net10.0\Punto7.deps.json
+C:\Users\valen\Ejercicio3POO\Ejercicio3POO\Punto7\bin\Debug\net10.0\Punto7.runtimeconfig.json
+C:\Users\valen\Ejercicio3POO\Ejercicio3POO\Punto7\bin\Debug\net10.0\Punto7.dll
+C:\Users\valen\Ejercicio3POO\Ejercicio3POO\Punto7\bin\Debug\net10.0\Punto7.pdb
+C:\Users\valen\Ejercicio3POO\Ejercicio3POO\Punto7\obj\Debug\net10.0\Punto7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Ejercicio3POO\Ejercicio3POO\Punto7\obj\Debug\net10.0\Punto7.AssemblyInfoInputs.cache
+C:\Users\valen\Ejercicio3POO\Ejercicio3POO\Punto7\obj\Debug\net10.0\Punto7.AssemblyInfo.cs
+C:\Users\valen\Ejercicio3POO\Ejercicio3POO\Punto7\obj\Debug\net10.0\Punto7.csproj.CoreCompileInputs.cache
+C:\Users\valen\Ejercicio3POO\Ejercicio3POO\Punto7\obj\Debug\net10.0\Punto7.sourcelink.json
+C:\Users\valen\Ejercicio3POO\Ejercicio3POO\Punto7\obj\Debug\net10.0\Punto7.dll
+C:\Users\valen\Ejercicio3POO\Ejercicio3POO\Punto7\obj\Debug\net10.0\refint\Punto7.dll
+C:\Users\valen\Ejercicio3POO\Ejercicio3POO\Punto7\obj\Debug\net10.0\Punto7.pdb
+C:\Users\valen\Ejercicio3POO\Ejercicio3POO\Punto7\obj\Debug\net10.0\Punto7.genruntimeconfig.cache
+C:\Users\valen\Ejercicio3POO\Ejercicio3POO\Punto7\obj\Debug\net10.0\ref\Punto7.dll
