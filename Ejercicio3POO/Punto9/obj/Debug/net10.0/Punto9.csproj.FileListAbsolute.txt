@@ -1,0 +1,15 @@
+C:\Users\valen\Ejercicio3poo\Ejercicio3poo\Punto9\bin\Debug\net10.0\Punto9.exe
+C:\Users\valen\Ejercicio3poo\Ejercicio3poo\Punto9\bin\Debug\net10.0\Punto9.deps.json
+C:\Users\valen\Ejercicio3poo\Ejercicio3poo\Punto9\bin\Debug\net10.0\Punto9.runtimeconfig.json
+C:\Users\valen\Ejercicio3poo\Ejercicio3poo\Punto9\bin\Debug\net10.0\Punto9.dll
+C:\Users\valen\Ejercicio3poo\Ejercicio3poo\Punto9\bin\Debug\net10.0\Punto9.pdb
+C:\Users\valen\Ejercicio3poo\Ejercicio3poo\Punto9\obj\Debug\net10.0\Punto9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Ejercicio3poo\Ejercicio3poo\Punto9\obj\Debug\net10.0\Punto9.AssemblyInfoInputs.cache
+C:\Users\valen\Ejercicio3poo\Ejercicio3poo\Punto9\obj\Debug\net10.0\Punto9.AssemblyInfo.cs
+C:\Users\valen\Ejercicio3poo\Ejercicio3poo\Punto9\obj\Debug\net10.0\Punto9.csproj.CoreCompileInputs.cache
+C:\Users\valen\Ejercicio3poo\Ejercicio3poo\Punto9\obj\Debug\net10.0\Punto9.sourcelink.json
+C:\Users\valen\Ejercicio3poo\Ejercicio3poo\Punto9\obj\Debug\net10.0\Punto9.dll
+C:\Users\valen\Ejercicio3poo\Ejercicio3poo\Punto9\obj\Debug\net10.0\refint\Punto9.dll
+C:\Users\valen\Ejercicio3poo\Ejercicio3poo\Punto9\obj\Debug\net10.0\Punto9.pdb
+C:\Users\valen\Ejercicio3poo\Ejercicio3poo\Punto9\obj\Debug\net10.0\Punto9.genruntimeconfig.cache
+C:\Users\valen\Ejercicio3poo\Ejercicio3poo\Punto9\obj\Debug\net10.0\ref\Punto9.dll
